@@ -1,0 +1,24 @@
+body {
+    background: #C5E1A5;
+}
+form {
+    width: 100%;
+    margin: 60px auto;
+    background: #efefef;
+    padding: 10px;
+
+    -webkit-box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+}
+h3{
+text-align: center;
+    margin-top: -50px;
+}
+.resume{
+    width: 100%;
+    margin-top: 50px;
+}
+.table{
+
+    margin-left: 0px;
+}

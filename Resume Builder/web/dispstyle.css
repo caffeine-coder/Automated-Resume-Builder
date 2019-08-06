@@ -1,0 +1,27 @@
+body{
+
+    padding: 10px;
+}
+
+h4{ width:100%; text-align:center; border-bottom: 1px solid #000; line-height:0.1em; margin:10px 0 20px; }
+h4 span { background:#efefef; padding:0 10px; }
+
+hr {
+    margin-top: -10px;
+    height: 0.5px;
+    background-color:#666;
+    color: darkslateblue;
+}
+h3{
+
+    color: darkslateblue;
+
+
+}
+span{
+    border-bottom:1px solid #000;
+}
+table th{
+
+    width: auto !important;
+}
